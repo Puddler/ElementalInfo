@@ -20,4 +20,4 @@ UI
 
 Unit Test
 1)  This is an organic program built on top of organic datasources.  We need to know when anything breaks.
-2)  Every method in 'Core' or 'Solution', should have a corresponding Unit Test.
+2)  Every method in 'Core' or 'Solution' must have a corresponding Unit Test.
