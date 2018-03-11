@@ -14,7 +14,7 @@ AI Structure
 5)  Simulations - Atoms Moving, Nations Growing, Stock Market Teasers
 
 UI
-1)  Homepage - WebGL Pixel People modeling behavior of algorithms run on gathered info
+1)  Homepage - WebGL Pixel People simulating behavior of algorithms
 2)  User Pages - Basic Science, Geography, People, History
 3)  Simulations Page
 
