@@ -11,7 +11,7 @@ AI Structure
 2)  Correlation/Result - Finding correlations between different categories
 3)  Natural Algorithms - How they apply to gathered information
 4)  DEEP Natural Algorithm - Produce Results from Inputs using Natural Algorithms
-5)  Simulations - Atoms Moving, Nations Growing, Stock Market Teasers
+5)  Simulations - Atoms Moving, Nations Growing, Markets Trending
 
 UI
 1)  Homepage - WebGL Pixel People simulating behavior of algorithms
