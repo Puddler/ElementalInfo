@@ -9,10 +9,11 @@ Gather Information
 AI Structure
 1)  Basic Statistical Analysis - Linear Regression, ???
 2)  Correlation/Result - Finding correlations between different categories
-3)  DEEP Algorithm to Produce Results from Inputs - ???
-4)  Simulations - Atoms Moving, Nations Growing, Stock Market Teasers
+3)  Natural Algorithms  
+4)  DEEP Algorithm to Produce Results from Inputs - ???
+5)  Simulations - Atoms Moving, Nations Growing, Stock Market Teasers
 
 UI
-1)  Homepage - WebGL
+1)  Homepage - WebGL Pixel People modeling behavior of algorithms run on gathered info
 2)  User Pages - Basic Science, Geography, People, History
 3)  Simulations Page
