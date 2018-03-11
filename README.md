@@ -19,5 +19,5 @@ UI
 3)  Simulations Page
 
 Unit Test
-1)  This is an organic program built on top of organic datasources.  Things will break, so we need to know when they do.
+1)  This is an organic program built on top of organic datasources.  We need to know when anything breaks.
 2)  Every method in 'Core' or 'Solution', should have a corresponding Unit Test.
