@@ -9,8 +9,8 @@ Gather Information
 AI Structure
 1)  Basic Statistical Analysis - Linear Regression, ???
 2)  Correlation/Result - Finding correlations between different categories
-3)  Natural Algorithms  
-4)  DEEP Algorithm to Produce Results from Inputs - ???
+3)  Natural Algorithms - How they apply to gathered information
+4)  DEEP Algorithm to Produce Results from Inputs using Natural Algorithms
 5)  Simulations - Atoms Moving, Nations Growing, Stock Market Teasers
 
 UI
